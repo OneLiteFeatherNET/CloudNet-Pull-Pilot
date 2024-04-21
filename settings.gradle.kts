@@ -1,2 +1,2 @@
-rootProject.name = "CloudNetPullPilot"
+rootProject.name = "CloudNet-Pull-Pilot"
 
